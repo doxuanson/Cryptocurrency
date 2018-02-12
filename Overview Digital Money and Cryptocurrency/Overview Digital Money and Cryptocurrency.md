@@ -90,7 +90,7 @@ Như đã đề cập ở trên, blockchain giúp giải quyết nhiều vấn �
 
 <a name="4.3.2"></a>
 ### 4.3.2.Wallet
-\- Wallet (Ví) có có tác dụng để chứa các đơn Cryptocurrency.  
+\- Wallet (Ví) có có tác dụng để chứa các đơn vị Cryptocurrency.  
 \- VD:  
 Sơn muốn chuyển tiền cho Nam. Sơn sẽ tạo 1 ví là ví A, Nam tạo 1 ví là ví B.  
 Sau đó, Sơn nạp 5 bitcoin vào ví A, rồi sẽ chuyển sang ví B cho Nam.  
@@ -106,7 +106,7 @@ Sau đó, Sơn nạp 5 bitcoin vào ví A, rồi sẽ chuyển sang ví B cho Na
 \- Digital Money:  
 https://en.wikipedia.org/wiki/Digital_currency  
 https://hocban.vn/tien-ao-tien-dien-tu-tien-ma-hoa-va-tien-ky-thuat-so-la-gi  
-\- Virtual_currency:  https://en.wikipedia.org/wiki/Virtual_currency  
+\- Virtual currency:  https://en.wikipedia.org/wiki/Virtual_currency  
 \- Cryptocurrency:  
 https://en.wikipedia.org/wiki/Cryptocurrency  
 https://blogtienao.com/cryptocurrency-la-gi/  
